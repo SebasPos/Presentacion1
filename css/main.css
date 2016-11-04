@@ -28,6 +28,10 @@ h1{
 	color: magenta;
 }
 
+#avatar {
+	border-radius: 50%
+}
+
 /* Selectores simples */
 /* Selectores compuestos // descendiente, hijo, 
 sibling, combinación de selectores simples */
